@@ -1,0 +1,10 @@
+neo4j-scala-dsl {
+ neo4j {
+   rest {
+     host = "localhost"
+     port = 7474
+     username = "<username>"
+     password = "<password>"
+   }
+ }
+}
